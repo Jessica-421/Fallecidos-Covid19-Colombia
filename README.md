@@ -9,7 +9,7 @@ Análisis de fallecimientos por COVID-19 en Colombia, con limpieza de datos, vis
 - Gráficos interactivos de tendencias temporales con Plotly
 
 ## Cómo usar
-1. Abrir el notebook `Análisis_fallecidos_Covid19_Colombia` en Google Colab, Jupyter o Visual Studio
+1. Abrir el notebook Análisis_fallecidos_Covid19_Colombia.ipynb en Google Colab, Jupyter o Visual Studio
 2. Ejecutar las celdas para reproducir los análisis y gráficos
 
 ## Autor
